@@ -57,7 +57,7 @@ plugins:
 
 author:
   name: "Cristian Di Grazia"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/bio-photo.png"
   bio: "Junior Frontend Developer"
   links:
     - label: "GitHub"
